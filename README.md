@@ -12,7 +12,7 @@ Install stpicalc with npm
 
 then...
 
-```bash
+```typescript
   import { stpicalc } from "stpicalc";
 
   let stpi = stpicalc([10, 5, 10, 7], [7, 7, 7, 7], [10, 10, 10, 10], [6, 7, 7, 7]);
